@@ -1,9 +1,9 @@
 ---
 title: Data Analyst | Jacksonville FL 
 ---
-[<img src="iconmonstr-linkedin-2-120.png">](https://www.linkedin.com/in/idlettewilson/)
+->[<img src="iconmonstr-linkedin-2-120.png">](https://www.linkedin.com/in/idlettewilson/)
 [<img src="iconmonstr-twitter-2-120.png">](https://twitter.com/AlexisIdlette)
-[<img src="iconmonstr-github-2-120.png">](https://github.com/alexisidlettewilson/)
+[<img src="iconmonstr-github-2-120.png">](https://github.com/alexisidlettewilson/)<-
 
 # About Me
 
