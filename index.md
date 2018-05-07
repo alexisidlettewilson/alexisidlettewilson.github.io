@@ -1,39 +1,34 @@
 ---
-title: Data Analyst | Jacksonville FL | Alexis Idlette Wilson
+title: Data Analyst | Jacksonville FL 
 ---
 
-You can use the [editor on GitHub](https://github.com/alexisidlettewilson/alexisidlettewilson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I currently work as a Strategic Data Analyst in Jacksonville, FL where my work revolves around analytics for the contingent staffing space. I enjoy the logical thought process behind decision-making and you're like to find a rank-scoring table on my desktop for everything from professional development to places to go on vacation. I also have more than seven years as a business analyst and tend to approach challenges, personal and professional, with an analyst's perspective. 
 
-### Markdown
+## My Toolkit
+- SQL
+- Microsoft Excel
+- Tibco Spotfire
+- RStudio
+- Microsoft Azure Machine Learning Studio
+- Intermediate Statistics
+- Business Analysis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Analysts and Professionals I Follow
+- [Karl Weigers](https://www.karlwiegers.com/)
+- [Julia Silge](https://juliasilge.com/)
+- [Roopam Upadhyay](http://ucanalytics.com/blogs/)
+- [Daniel Shiffman](http://thecodingtrain.com/)
+- [Catherine Madden](https://www.skillshare.com/classes/Visual-Thinking-Drawing-Data-to-Communicate-Ideas/1746654720)
 
-```markdown
-Syntax highlighted code block
+## Podcasts I Enjoy
+- [Digital Analytics Power Hour](http://www.analyticshour.io/)
+- [Data Science Imposters](https://datascienceimposters.com/)
+- [People Analytics Podcast](https://tucana-global.com/category/podcast/)
+- [Code Newbie](https://www.codenewbie.org/podcast)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexisidlettewilson/alexisidlettewilson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Resources I Recommend
+- [Skillshare](www.skillshare.com)
+- [Data Camp](http://www.datacamp.com)
+- [Free Code Camp](www.freecodecamp.com)
