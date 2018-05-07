@@ -1,7 +1,10 @@
 ---
 title: Data Analyst | Jacksonville FL 
 ---
+[<img src="iconmonstr-linkedin-2-120.png">](https://www.linkedin.com/in/idlettewilson/)
+[<img src="iconmonstr-twitter-2-120.png">](https://twitter.com/AlexisIdlette)
 [<img src="iconmonstr-github-2-120.png">](https://github.com/alexisidlettewilson/)
+
 # About Me
 
 I currently work as a Strategic Data Analyst in Jacksonville, FL where my work revolves around analytics for the contingent staffing space. I enjoy the logical thought process behind decision-making and you're likely to find a rank-scoring table on my desktop for everything from professional development to places to go on vacation. I also have more than seven years as a business analyst and tend to approach challenges, personal and professional, with an analyst's perspective. 
