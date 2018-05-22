@@ -35,6 +35,6 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 - [Code Newbie](https://www.codenewbie.org/podcast)
 
 ## Resources I Recommend
-- [Skillshare](www.skillshare.com)
+- [Skillshare](https://skillshare.evyy.net/c/1189964/298081/4650)
 - [Data Camp](http://www.datacamp.com)
 - [Free Code Camp](www.freecodecamp.com)
