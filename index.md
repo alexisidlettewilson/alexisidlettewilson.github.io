@@ -38,3 +38,8 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 - [Skillshare](https://skillshare.evyy.net/c/1189964/298081/4650)
 - [Data Camp](http://www.datacamp.com)
 - [Free Code Camp](www.freecodecamp.com)
+
+## R Notebooks
+- [Best Subset Selection for Regression Models](https://alexisidlettewilson.github.io/FeatureSelection_RNotebook.nb.html)
+
+
