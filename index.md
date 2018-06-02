@@ -41,5 +41,6 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 
 ## R Notebooks
 - [Best Subset Selection for Regression Models](https://alexisidlettewilson.github.io/FeatureSelection_RNotebook.nb.html)
+- [Fitting a Linear Regression Model](https://alexisidlettewilson.github.io/LinearRegressions1_RNotebook.html)
 
 
