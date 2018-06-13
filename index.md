@@ -44,5 +44,6 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 - [Fitting a Linear Regression Model](https://alexisidlettewilson.github.io/LinearRegressions1_RNotebook.html)
 - [Decision Tree Method for Binary Classification](https://alexisidlettewilson.github.io/DecisionTree_RNotebook.nb.html)
 - [Ensemble Decision Tree Methods](https://alexisidlettewilson.github.io/Ensemble_RNotebook.nb.html)
+- [Clustering](https://alexisidlettewilson.github.io/Clustering_RNotebook.nb.html)
 
 
