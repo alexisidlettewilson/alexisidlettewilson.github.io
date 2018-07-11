@@ -2,6 +2,8 @@ theme: jekyll-theme-cayman
 name: Data Analyst | Jacksonville FL | Alexis Idlette Wilson
 title: Alexis J. Idlette-Wilson, MLIS
 description: Data-Informed Business Analyst Skilled in Statistics and Data Visualization
+head-scripts:
+  -<script id="gs-sdk" src='//www.buildquickbots.com/botwidget/v3/demo/static/js/sdk.js?v=3' key="b21c18a8-ef02-4b52-a19e-7573a76de97a" ></script>
 linkedin: https://www.linkedin.com/in/idlettewilson/
 twitter: alexisidlette
 github: alexisidlettewilson
