@@ -42,7 +42,6 @@ Roughly less than half of all students repay their loans such that their loan ba
 | 5.163 | 30.230  | 44.860 | 47.370 | 62.620  | 100.500 | 20.988   |
 
 ![alt text](/capstone_images/image1.png)
-[image1]
 
 
 #### Individual Feature Statistics
@@ -73,6 +72,7 @@ Cumulative loan debt (90th percentile) proved to be an unlikely predictor. Its d
 Regarding school ownership, median repayment rate hovered around 65% for private, nonprofit schools, giving it the highest repayment rate of all school types. Public school repayment rates just cleared 50%, making them more in line with the overall median repayment rate. Private for-profit schools deliver the lowest repayment rates. Considering these schools can have substantially higher tuitions than public schools, a 30% repayment rate is particularly problematic. Of note, the repayment rate range for each school type is quite broad indicating each school type has the potential to generate high repayment.
 
 ![alt text](/capstone_images/image7.png)
+
 *Figure 2 - Box Plot of Private-for-profit, Public and Private-nonprofit observation frequency*
 
 
@@ -106,6 +106,7 @@ Below, scatterplots illustrate the relationship between repayment rate and the s
 ![alt text](/capstone_images/image10.png)
 ![alt text](/capstone_images/image11.png)
 ![alt text](/capstone_images/image12.png)
+
 *Figure 3 - Scatterplot diagrams of final model features*
 
 
