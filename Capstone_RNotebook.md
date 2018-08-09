@@ -46,7 +46,7 @@ Roughly less than half of all students repay their loans such that their loan ba
 
 
 #### Individual Feature Statistics
-Descriptive statistics for additional features are beyond the scope of this summary, considering over 400 features were provided for analysis. Summary statistics (¬¬¬minimum, maximum, median, mean, and standard deviation) were calculated for numeric features. A box plot was generated for the categorical feature school__ownership.
+Descriptive statistics for additional features are beyond the scope of this summary, considering over 400 features were provided for analysis. Summary statistics (minimum, maximum, median, mean, and standard deviation) were calculated for numeric features. A box plot was generated for the categorical feature school__ownership.
 
 |    Feature                                         |    Minimum        |    Maximum            |    Median          |    Mean            |    Std.  Dev.      |
 |----------------------------------------------------|-------------------|-----------------------|--------------------|--------------------|--------------------|
