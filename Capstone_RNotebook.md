@@ -55,6 +55,7 @@ Descriptive statistics for additional features are beyond the scope of this summ
 |    student__demographics_race_ethnicity_black      |    0%             |    100%               |    29%             |    37%             |    30%             |
 |    student__students_with_pell_grant               |    5%             |    100%               |    68%             |    62%             |    26%             |
 |    student__share_independent_lowincome_0_30000    |    28%            |    98%                |    74%             |    69%             |    18%             |
+
 *Figure 1 - Summary Statistics for Final Model Features*
 
 
