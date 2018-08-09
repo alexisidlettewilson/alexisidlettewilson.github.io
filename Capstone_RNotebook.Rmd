@@ -40,12 +40,12 @@ Roughly less than half of all students repay their loans such that their loan ba
 | Min.  | 1st Qu. | Median | Mean   | 3rd Qu. | Max.    | Std. Dev |
 |-------|---------|--------|--------|---------|---------|----------|
 | 5.163 | 30.230  | 44.860 | 47.370 | 62.620  | 100.500 | 20.988   |
-
+![alt text](/capstone_images/image1.png)
 [image1]
 
 
 #### Individual Feature Statistics
-Descriptive statistics for additional features are beyond the scope of this summary, considering over 400 features were provided for analysis. Summary statistics (¬¬¬minimum, maximum, median, mean, and standard deviation) were calculated for numeric features. A box plot was generated for the categorical feature school__ownership.
+Descriptive statistics for additional features are beyond the scope of this summary, considering over 400 features were provided for analysis. Summary statistics (Â¬Â¬Â¬minimum, maximum, median, mean, and standard deviation) were calculated for numeric features. A box plot was generated for the categorical feature school__ownership.
 
 |    Feature                                         |    Minimum        |    Maximum            |    Median          |    Mean            |    Std.  Dev.      |
 |----------------------------------------------------|-------------------|-----------------------|--------------------|--------------------|--------------------|
