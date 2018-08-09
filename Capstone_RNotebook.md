@@ -1,11 +1,5 @@
 ---
 title: 'Final Report: Analysis Results for Student Loan Repayment Rate Study'
-output:
-  html_document: default
-  html_notebook:
-    fig_height: 6
-  pdf_document: default
-  word_document: default
 ---
 
 #### *Prepared for the Microsoft Professional Program in Data Science and roughly transferred into Markdown*
