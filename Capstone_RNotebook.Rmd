@@ -40,6 +40,7 @@ Roughly less than half of all students repay their loans such that their loan ba
 | Min.  | 1st Qu. | Median | Mean   | 3rd Qu. | Max.    | Std. Dev |
 |-------|---------|--------|--------|---------|---------|----------|
 | 5.163 | 30.230  | 44.860 | 47.370 | 62.620  | 100.500 | 20.988   |
+
 ![alt text](/capstone_images/image1.png)
 [image1]
 
