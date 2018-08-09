@@ -92,7 +92,7 @@ These values represent the Pearson correlation coefficients for each pair of fea
 
 #### Data Cleansing
 
-For many features, a large portion of the values were missing. To begin the analysis, columns with more than one-third of their values missing were eliminated as candidate features. After applying this rule, 445 features decreased to 78 features.
+For many features, a large portion of the values were missing. To begin the analysis, columns with more than one-third of their values missing were eliminated as candidate features. After applying this rule, 444 features decreased to 78 features.
 
 Next, missing values for the remaining numeric features were replaced utilizing the mean value for the feature. Mean served to skew the data as needed, as opposed to the median which wouldn't provide as much leverage for prediction.  Finally, missing values for string variables were replaced with a generic label of "unknown."	 
 
