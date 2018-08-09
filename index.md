@@ -40,7 +40,7 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 - [Free Code Camp](www.freecodecamp.com)
 
 ## R Notebooks
-- [Microsoft Data Science Capstone](https://alexisidlettewilson.github.io/Capstone_RNotebook.nb.html)
+- [Microsoft Data Science Capstone](https://alexisidlettewilson.github.io/Capstone_RNotebook.Rmd)
 - [Best Subset Selection for Regression Models](https://alexisidlettewilson.github.io/FeatureSelection_RNotebook.nb.html)
 - [Fitting a Linear Regression Model](https://alexisidlettewilson.github.io/LinearRegressions1_RNotebook.html)
 - [Decision Tree Method for Binary Classification](https://alexisidlettewilson.github.io/DecisionTree_RNotebook.nb.html)
