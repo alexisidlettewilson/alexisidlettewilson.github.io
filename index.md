@@ -5,6 +5,7 @@ title: Data Analyst | Jacksonville FL
   <a href="https://www.linkedin.com/in/idlettewilson/"><img src="iconmonstr-linkedin-2-120.png"></a>
   <a href="https://twitter.com/AlexisIdlette"><img src="iconmonstr-twitter-2-120.png"></a>
   <a href="https://github.com/alexisidlettewilson/"><img src="iconmonstr-github-2-120.png"></a>
+  <a href="https://www.hackerrank.com/aiw01/"><img src="hackerrank.svg" height="120px"></i></a>
 
 </p>
 
