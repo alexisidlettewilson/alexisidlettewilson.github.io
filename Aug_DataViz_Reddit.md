@@ -34,8 +34,6 @@ With the tabula package, I converted the pdf into a Python data frame, then conv
 * I had to change the encoding of the file. If I had been more forward-thinking, I would have saved the error message I received but I did not. Essentially the issue was that there were some non-English characters in the file. I changed the encoding to "latin-1" and that resolved the issue. The Tabula 'read_pdf' function allows a parameter for encoding so I changed this easily.
 * The Tabula pdf reader did not find the same number of columns on every page. Unsure of how to resolve this, I did some simple boundary testing and determined on which pages the program became misaligned. I tried created separate files for the mismatched pages and it worked. I ended up with four csv files which I easily loaded into Tibco Spotfire.
 
-
-Screenshots are below.
-
+![An image of a Jupyter notebook populated with code](/083118_images/tsa_image_3.jpg)
 
 
