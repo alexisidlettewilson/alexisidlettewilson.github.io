@@ -40,13 +40,15 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 - [Data Camp](http://www.datacamp.com)
 - [Free Code Camp](www.freecodecamp.com)
 
-## R Notebooks
+## R Notebooks and Projects
 - [Microsoft Data Science Capstone](https://alexisidlettewilson.github.io/Capstone_RNotebook.html)
 - [Best Subset Selection for Regression Models](https://alexisidlettewilson.github.io/FeatureSelection_RNotebook.nb.html)
 - [Fitting a Linear Regression Model](https://alexisidlettewilson.github.io/LinearRegressions1_RNotebook.html)
 - [Decision Tree Method for Binary Classification](https://alexisidlettewilson.github.io/DecisionTree_RNotebook.nb.html)
 - [Ensemble Decision Tree Methods](https://alexisidlettewilson.github.io/Ensemble_RNotebook.nb.html)
 - [Clustering](https://alexisidlettewilson.github.io/Clustering_RNotebook.nb.html)
+- [Analyzing TSA Data with Python and Spotfire](https://alexisidlettewilson.github.io/Aug_DataViz_Reddit.html)
+
 
 
 
