@@ -22,9 +22,20 @@ I chose an exploratory analysis asking the questions that immediately came to my
 
 The TSA data sets are available on the [US Department of Homeland Security website](https://www.dhs.gov/tsa-claims-data).
 
-Some of the data sets are in Excel friendly formats but the last two years of data proved to be a challenge as they were provided in PDF format. After exploring options available through both R and Python, I chose the tabula pack to extract the data from the PDF into a table.
+Some of the data sets are in Excel friendly formats but the last two years of data proved to be a challenge as they were provided in PDF format. After exploring options available through both R and Python, I chose the [Tabula package](https://github.com/chezou/tabula-py) to extract the data from the PDF into a table. I'll continue to call it Tabula instead of Tabula-py because I used the term "tabula" in the code.
 
-### 
+### Tabula
+
+I used Tabula with my IDE of choice, PyCharm, and opened up a Jupyter notebook because at the time I felt it was easier to work with.
+
+With the tabula package, I converted the pdf into a Python data frame, then converted the data frame into a csv file. I ran into a couple issues trying to do this.
+
+* I had to add Java to the system environment variables on my PC. I did not realize this ahead of time and I frowned a few errors before I figured out the issue.
+* I had to change the encoding of the file. If I had been more forward-thinking, I would have saved the error message I received but I did not. Essentially the issue was that there were some non-English characters in the file. I changed the encoding to "latin-1" and that resolved the issue. The Tabula 'read_pdf' function allows a parameter for encoding so I changed this easily.
+* The Tabula pdf reader did not find the same number of columns on every page. Unsure of how to resolve this, I did some simple boundary testing and determined on which pages the program became misaligned. I tried created separate files for the mismatched pages and it worked. I ended up with four csv files which I easily loaded into Tibco Spotfire.
+
+
+Screenshots are below.
 
 
 
