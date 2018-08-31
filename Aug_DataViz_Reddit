@@ -1,0 +1,30 @@
+---
+title: 'Analyzing TSA Data and Using Tabula to Scrape a PDF'
+output:
+  html_document: default
+  html_notebook:
+    fig_height: 6
+  pdf_document: default
+  word_document: default
+---
+
+[Back to Homepage](https://alexisidlettewilson.github.io/)
+
+### The Challenge
+
+The [Reddit DataIsBeautiful group](https://www.reddit.com/r/dataisbeautiful/) holds friendly, monthly data visualization competitions. Every month there the moderator presents new data sets and different challenges to be tackled by participants.
+
+The August 2018 competition challenged participants to visualize United States (US) Transportation Security Administration (TSA) data. 
+
+### The Data
+
+I chose an exploratory analysis asking the questions that immediately came to my mind when looking through the data.
+
+The TSA data sets are available on the [US Department of Homeland Security website](https://www.dhs.gov/tsa-claims-data).
+
+Some of the data sets are in Excel friendly formats but the last two years of data proved to be a challenge as they were provided in PDF format. After exploring options available through both R and Python, I chose the tabula pack to extract the data from the PDF into a table.
+
+### 
+
+
+
