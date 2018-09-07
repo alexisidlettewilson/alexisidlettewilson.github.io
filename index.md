@@ -14,33 +14,34 @@ title: Data Analyst | Jacksonville FL
 I currently work as a Strategic Data Analyst in Jacksonville, FL where my work revolves around analytics for the contingent staffing space. I enjoy the logical thought process behind decision-making and you're likely to find a rank-scoring table on my desktop for everything from professional development to places to go on vacation. I also have more than seven years as a business analyst and tend to approach challenges, personal and professional, with an analyst's perspective. 
 
 ## My Toolkit
-- SQL
-- Microsoft Excel
-- Tibco Spotfire
-- RStudio
-- Microsoft Azure Machine Learning Studio
-- Intermediate Statistics
+- Azure Machine Learning Studio
 - Business Analysis
+- Data Analysis
+- Excel 
+- Python
+- R
+- SQL
+- SQL Server and SQL Developer
+- Tableau Public
+- Tibco Spotfire
 
 ## Analysts and Professionals I Follow
 - [Karl Weigers](https://www.karlwiegers.com/)
-- [Julia Silge](https://juliasilge.com/)
-- [Roopam Upadhyay](http://ucanalytics.com/blogs/)
-- [Daniel Shiffman](http://thecodingtrain.com/)
 - [Catherine Madden](https://www.skillshare.com/classes/Visual-Thinking-Drawing-Data-to-Communicate-Ideas/1746654720)
 
 ## Podcasts I Enjoy
 - [Digital Analytics Power Hour](http://www.analyticshour.io/)
 - [Data Science Imposters](https://datascienceimposters.com/)
-- [People Analytics Podcast](https://tucana-global.com/category/podcast/)
 - [Code Newbie](https://www.codenewbie.org/podcast)
+- [Product Popcorn](https://www.productpopcorn.com/)
+- [IoT Inc Business Show](https://www.stitcher.com/podcast/the-ipv6-show/the-iot-inc-business-show)
 
 ## Resources I Recommend
 - [Skillshare](https://skillshare.evyy.net/c/1189964/298081/4650)
 - [Data Camp](http://www.datacamp.com)
 - [Free Code Camp](www.freecodecamp.com)
 
-## R Notebooks and Projects
+## Projects
 - [Microsoft Data Science Capstone](https://alexisidlettewilson.github.io/Capstone_RNotebook.html)
 - [Best Subset Selection for Regression Models](https://alexisidlettewilson.github.io/FeatureSelection_RNotebook.nb.html)
 - [Fitting a Linear Regression Model](https://alexisidlettewilson.github.io/LinearRegressions1_RNotebook.html)
@@ -48,6 +49,7 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 - [Ensemble Decision Tree Methods](https://alexisidlettewilson.github.io/Ensemble_RNotebook.nb.html)
 - [Clustering](https://alexisidlettewilson.github.io/Clustering_RNotebook.nb.html)
 - [Analyzing TSA Data with Python and Spotfire](https://alexisidlettewilson.github.io/Aug_DataViz_Reddit.html)
+- [Pokemon Character Weights](https://public.tableau.com/profile/alexis4711#!/vizhome/PokemonSept_2018/Dashboard1)
 
 
 
