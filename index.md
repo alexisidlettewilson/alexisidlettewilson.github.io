@@ -13,10 +13,10 @@ title: Data Analyst | Jacksonville FL
 
 I currently work as a Strategic Data Analyst in Jacksonville, FL where my work revolves around analytics for the contingent staffing space. I enjoy the logical thought process behind decision-making and you're likely to find a rank-scoring table on my desktop for everything from professional development to places to go on vacation. I also have more than seven years as a business analyst and tend to approach challenges, personal and professional, with an analyst's perspective. 
 
-<div id="main" style="width: 100%, display: table">
-  <div id="tablerow" style="display: table-row">
+<div id="main" style="width: 100%; display: table;">
+  <div id="tablerow" style="display: table-row;">
   
-  <div id="likes" style="width: 20%, display: table-cell">
+  <div id="likes" style="width: 400px; display: table-cell;">
   
    ## Analysts and Professionals I Follow
    - [Karl Weigers](https://www.karlwiegers.com/)
@@ -35,7 +35,7 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
   - [Free Code Camp](www.freecodecamp.com)
 </div>
 
-<div id="toolkit" style="width: 80%, display: table-cell">
+<div id="toolkit" style="width: 800px; display: table-cell;">
  
  ## My Toolkit
   - Azure Machine Learning Studio
