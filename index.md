@@ -17,35 +17,35 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
   <div id="tablerow" style="display: table-row">
   
   <div id="likes" style="width: 20%, display: table-cell">
-## Analysts and Professionals I Follow
-- [Karl Weigers](https://www.karlwiegers.com/)
-- [Catherine Madden](https://www.skillshare.com/classes/Visual-Thinking-Drawing-Data-to-Communicate-Ideas/1746654720)
+    ## Analysts and Professionals I Follow
+    - [Karl Weigers](https://www.karlwiegers.com/)
+    - [Catherine Madden](https://www.skillshare.com/classes/Visual-Thinking-Drawing-Data-to-Communicate-Ideas/1746654720)
 
 ## Podcasts I Enjoy
-- [Digital Analytics Power Hour](http://www.analyticshour.io/)
-- [Data Science Imposters](https://datascienceimposters.com/)
-- [Code Newbie](https://www.codenewbie.org/podcast)
-- [Product Popcorn](https://www.productpopcorn.com/)
-- [IoT Inc Business Show](https://www.stitcher.com/podcast/the-ipv6-show/the-iot-inc-business-show)
+  - [Digital Analytics Power Hour](http://www.analyticshour.io/)
+  - [Data Science Imposters](https://datascienceimposters.com/)
+  - [Code Newbie](https://www.codenewbie.org/podcast)
+  - [Product Popcorn](https://www.productpopcorn.com/)
+  - [IoT Inc Business Show](https://www.stitcher.com/podcast/the-ipv6-show/the-iot-inc-business-show)
 
 ## Resources I Recommend
-- [Skillshare](https://skillshare.evyy.net/c/1189964/298081/4650)
-- [Data Camp](http://www.datacamp.com)
-- [Free Code Camp](www.freecodecamp.com)
-  </div>
-  
-  <div id="toolkit" style="width: 20%, display: table-cell">
-## My Toolkit
-- Azure Machine Learning Studio
-- Business Analysis
-- Data Analysis
-- Excel 
-- Python
-- R
-- SQL
-- SQL Server and SQL Developer
-- Tableau Public
-- Tibco Spotfire
+  - [Skillshare](https://skillshare.evyy.net/c/1189964/298081/4650)
+  - [Data Camp](http://www.datacamp.com)
+  - [Free Code Camp](www.freecodecamp.com)
+</div>
+
+<div id="toolkit" style="width: 80%, display: table-cell">
+  ## My Toolkit
+  - Azure Machine Learning Studio
+  - Business Analysis
+  - Data Analysis
+  - Excel 
+  - Python
+  - R
+  - SQL
+  - SQL Server and SQL Developer
+  - Tableau Public
+  - Tibco Spotfire
   </div>
   
   </div>
