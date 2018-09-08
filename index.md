@@ -17,9 +17,10 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
   <div id="tablerow" style="display: table-row">
   
   <div id="likes" style="width: 20%, display: table-cell">
-    ## Analysts and Professionals I Follow
-    - [Karl Weigers](https://www.karlwiegers.com/)
-    - [Catherine Madden](https://www.skillshare.com/classes/Visual-Thinking-Drawing-Data-to-Communicate-Ideas/1746654720)
+  
+   ## Analysts and Professionals I Follow
+   - [Karl Weigers](https://www.karlwiegers.com/)
+   - [Catherine Madden](https://www.skillshare.com/classes/Visual-Thinking-Drawing-Data-to-Communicate-Ideas/1746654720)
 
 ## Podcasts I Enjoy
   - [Digital Analytics Power Hour](http://www.analyticshour.io/)
@@ -35,7 +36,8 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 </div>
 
 <div id="toolkit" style="width: 80%, display: table-cell">
-  ## My Toolkit
+ 
+ ## My Toolkit
   - Azure Machine Learning Studio
   - Business Analysis
   - Data Analysis
