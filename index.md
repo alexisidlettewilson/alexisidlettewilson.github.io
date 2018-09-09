@@ -5,8 +5,6 @@ title: Data Analyst | Jacksonville FL
   <a href="https://www.linkedin.com/in/idlettewilson/"><img src="iconmonstr-linkedin-2-120.png"></a>
   <a href="https://twitter.com/AlexisIdlette"><img src="iconmonstr-twitter-2-120.png"></a>
   <a href="https://github.com/alexisidlettewilson/"><img src="iconmonstr-github-2-120.png"></a>
-  <a href="https://www.hackerrank.com/aiw01/"><img src="hackerrank.svg" height="120px"></a>
-
 </p>
 
 # About Me
@@ -34,6 +32,7 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 - [Clustering](https://alexisidlettewilson.github.io/Clustering_RNotebook.nb.html)
 - [Analyzing TSA Data with Python and Spotfire](https://alexisidlettewilson.github.io/Aug_DataViz_Reddit.html)
 - [Pokemon Character Weights](https://public.tableau.com/profile/alexis4711#!/vizhome/PokemonSept_2018/Dashboard1)
+- [Hacker Rank](https://www.hackerrank.com/aiw01/)
 
 ## Analysts and Professionals I Follow
   - [Karl Weigers](https://www.karlwiegers.com/)
