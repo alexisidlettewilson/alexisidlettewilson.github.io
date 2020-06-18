@@ -16,10 +16,9 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
   - Business Analysis
   - Data Analysis
   - Excel 
-  - Python
   - R
   - SQL
-  - SQL Server and SQL Developer
+  - SSMS/SQL Server and Oracle SQL Developer
   - Tableau Public
   - Tibco Spotfire
 
@@ -37,18 +36,17 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
 ## Analysts and Professionals I Follow
   - [Karl Weigers](https://www.karlwiegers.com/)
   - [Catherine Madden](https://www.skillshare.com/classes/Visual-Thinking-Drawing-Data-to-Communicate-Ideas/1746654720)
+  - [Lauren Brandenburg](https://www.bridging-the-gap.com/)
+  - [Jen Obermeier](http://www.proorganizerstudio.com/)
 
 ## Podcasts I Enjoy
   - [Digital Analytics Power Hour](http://www.analyticshour.io/)
   - [Data Science Imposters](https://datascienceimposters.com/)
-  - [Code Newbie](https://www.codenewbie.org/podcast)
-  - [Product Popcorn](https://www.productpopcorn.com/)
-  - [IoT Inc Business Show](https://www.stitcher.com/podcast/the-ipv6-show/the-iot-inc-business-show)
 
 ## Resources I Recommend
   - [Skillshare](https://skillshare.evyy.net/c/1189964/298081/4650)
-  - [Data Camp](http://www.datacamp.com)
   - [Free Code Camp](www.freecodecamp.com)
+  - [Future Crunch](https://futurecrun.ch/)
 
  
 
