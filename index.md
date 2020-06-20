@@ -23,6 +23,7 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
   - Tibco Spotfire
 
 ## Projects for Fun
+- [Medium articles](https://medium.com/@alexisidlettewilson)
 - [Microsoft Data Science Capstone](https://alexisidlettewilson.github.io/Capstone_RNotebook.html)
 - [Best Subset Selection for Regression Models](https://alexisidlettewilson.github.io/FeatureSelection_RNotebook.nb.html)
 - [Fitting a Linear Regression Model](https://alexisidlettewilson.github.io/LinearRegressions1_RNotebook.html)
