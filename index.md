@@ -48,6 +48,9 @@ I currently work as a Strategic Data Analyst in Jacksonville, FL where my work r
   - [Skillshare](https://skillshare.evyy.net/c/1189964/298081/4650)
   - [Free Code Camp](www.freecodecamp.com)
   - [Future Crunch](https://futurecrun.ch/)
+  
+### Placeholder (ignore me)
+<div><iframe width="680" height="510" src="https://app.powerbi.com/view?r=eyJrIjoiMjMxMTQ5MWUtZjE1YS00ODQ0LWI2NTktMTM1MjRkNDQ1ZTg0IiwidCI6IjAwOGExZmUwLTk5M2EtNDRlNS05MjcxLWUxOTI1NTViNTFjMyIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe></div>
 
  
 
