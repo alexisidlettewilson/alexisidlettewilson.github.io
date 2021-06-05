@@ -1,5 +1,5 @@
 ---
-title: Data Analyst | Jacksonville FL 
+title: Data Product Manager | Jacksonville FL 
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/idlettewilson/"><img src="iconmonstr-linkedin-2-120.png"></a>
