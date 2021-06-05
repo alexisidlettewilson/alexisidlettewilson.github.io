@@ -31,8 +31,6 @@ I love empowering my customers to achieve their goals through data analysis and 
 ## Analysts and Professionals I Follow
   - [Karl Weigers](https://www.karlwiegers.com/)
   - [Catherine Madden](https://www.skillshare.com/classes/Visual-Thinking-Drawing-Data-to-Communicate-Ideas/1746654720)
-  - [Lauren Brandenburg](https://www.bridging-the-gap.com/)
-  - [Jen Obermeier](http://www.proorganizerstudio.com/)
 
 ## Podcasts I Enjoy
   - [Digital Analytics Power Hour](http://www.analyticshour.io/)
